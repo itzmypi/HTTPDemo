@@ -1,1 +1,2 @@
 # HTTPDemo
+This program demonstrates hosting a Python backend and a HTML and JavaScript frontend. It uses flask for Python to manage HTTP requests and pyodbc to manage databases. It uses a local database made in Microsoft SQL. In the website, you can cast a vote for your chosen Democratic candidate, edit the vote, view it, and delete it. The connection string in the Backend.py file comes from an external file that was not uploaded.
